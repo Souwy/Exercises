@@ -1,8 +1,8 @@
 # Exercises
 
 ## 1
+* _JS-Reference_
 * _An-Errors_
-* _Snippet-Studies_
 
 ___
 
