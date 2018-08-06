@@ -30,8 +30,8 @@ ___
 ___
  
 ## 6 
-*_sol. des 1 - app design
-*_sold. des 2. - user focused dev
-*_sold.des.3 - collaboration
+* _sol. des 1 - app design
+* _sold. des 2. - user focused dev
+* _sold.des.3 - collaboration
 
 ___
