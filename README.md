@@ -8,7 +8,8 @@ ___
 
 ## 2
 * _Expansions_
-
+  * [increment-implicit-coercion] (https://github.com/Souwy/increment-implicit-coercion)
+    This is an input-output table. Goal : to use an html file and manipulate the table. changes formulas, increase the number of states, ...
 ___
 
 ## 3
